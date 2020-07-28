@@ -1,6 +1,3 @@
-wave:
-
-    Class defining a wave system. Can be used in a standing wave simulation.
 
 wave_sim:
 
